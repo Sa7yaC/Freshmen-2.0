@@ -11,6 +11,7 @@ Currently, two official plugins are available:
 
 # How to run
 1. Clone the repo
+2. Run the below code in the terminal
 ``` prompt
 cd 2.O/
 npm i
